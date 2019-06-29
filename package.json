@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@nebulario/tracker-server": "1.70.0-master"
+    "@nebulario/tracker-server": "1.70.4-master"
   }
 }
